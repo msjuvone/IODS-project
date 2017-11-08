@@ -1,0 +1,14 @@
+---
+title: "README"
+author: "Markus Juvonen"
+date: "11/8/2017"
+output: html_document
+---
+
+## Something about the course
+
+This course seems like a good way of learning the basic stuff about R and using GitHub. I hope i won't be dissapointed!
+
+### Link to my GitHub repository:
+
+https://msjuvone.github.com/IODS-project
