@@ -9,6 +9,8 @@ output: html_document
 
 The course consists of weekly DataCamp exercises as well as Rstudio exercises that will be stored in a personal GitHub repository and peer reviewed.
 
+This course seems like a good way of learning the basic stuff about R and using GitHub. I hope i won't be dissapointed!
+
 Here is a link to my github depository:
 
 https://github.com/msjuvone/IODS-project
